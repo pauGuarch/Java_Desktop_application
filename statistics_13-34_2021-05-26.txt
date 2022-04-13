@@ -1,0 +1,13 @@
+                      ESTADISTIQUES
+
+COSMETICA:   preu mínim- 06,99   mig- 14,32   màxim- 19,99
+PERFUMERIA:  preu mínim-03,99   mig-42,32   màxim-59,99
+MAQUILLATGE: preu mínim-09,99   mig-15,39   màxim-19,99
+
+PRODUCTES SENSE STOCK
+Codi: 004    Nom: Lipstick black
+Codi: 006    Nom: Carolina Herrera
+Codi: 010    Nom: Rosa mosqueta
+Codi: 014    Nom: Angel
+Codi: 016    Nom: Desodorante Sanex
+Codi: 017    Nom: Aceite barba v7
